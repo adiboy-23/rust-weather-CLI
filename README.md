@@ -14,6 +14,15 @@
       ```
         Cargo run
       ```
+    - create a .env file and add the OpenWeather api key
+       ```
+           API_KEY =
+        ```
+
+- To run the CLI use
+      ```
+          Cargo run
+      ```
       
 - ![image ](https://github.com/adiboy-23/rust-weather-CLI/assets/123615666/9f0ef64e-979e-45b6-904c-bc76433f8ccf )
   
