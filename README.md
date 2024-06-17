@@ -15,7 +15,7 @@
         Cargo run
       ```
       
-- ![image ](https://github.com/adiboy-23/rust-weather-CLI/assets/123615666/9f0ef64e-979e-45b6-904c-bc76433f8ccf ){width=400px}
+- ![image ](https://github.com/adiboy-23/rust-weather-CLI/assets/123615666/9f0ef64e-979e-45b6-904c-bc76433f8ccf )
   
 - ![image [width=400px] ](https://github.com/adiboy-23/rust-weather-CLI/assets/123615666/1bbceb0f-3603-4b95-af50-ef59f15d1ce3)
   
